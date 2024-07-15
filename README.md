@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Aryan Grover (@agrov5)
+- 👀 I’m interested in coding with Python, using the framework Flutter to make fullstack apps.
+- 🌱 I’m currently learning how to manage my way through Git and GitHub
+- 💞️ I’d love to collaborate on projects which I can use Python.
+- 📫 You can contact me through my email address (aryangrover20091007@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Always looking to learn!
