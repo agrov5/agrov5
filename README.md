@@ -8,51 +8,49 @@
 
 ```typescript
 const developer = {
-  name: "Your Name",
-  location: "Your City, Country",
+  name: "Aryan Grover",
+  location: "Ottawa, Canada",
   role: "Full Stack Developer",
-  languages: ["JavaScript", "Python", "TypeScript", "Go"],
-  frameworks: ["React", "Node.js", "Express", "Next.js"],
-  databases: ["PostgreSQL", "MongoDB", "Redis"],
-  tools: ["Docker", "AWS", "Git", "VS Code"],
-  currentFocus: "Building scalable web applications",
+  languages: ["JavaScript", "Python", "TypeScript", "HTML/CSS", "Dart"],
+  frameworks: ["React", "Node.js", "Express", "Next.js", "Flutter", "Django/Flask"],
+  databases: ["PostgreSQL", "MongoDB"],
+  currentFocus: "Currently trying to solve problems with code!",
   funFact: "I debug with console.log and I'm not ashamed 🚀"
 };
 ```
 
 ## 🔥 What I'm Up To
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technology you're learning]**
+- 🔭 Currently working on **[YurrAI](https://www.yurrai.com)**
+- 🌱 Learning **Marketing**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, or anything tech-related**
-- 📫 Reach me at **[your-email@example.com]**
-- ⚡ Fun fact: **[Your interesting fact]**
-
+- 📫 Reach me at **aryangrover20091007@gmail.com**
+- 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,docker,aws,git,vscode,postgres,mongodb&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,vscode,mongodb,npm,figma&perline=3" alt="Tech Stack" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agrov5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrov5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrov5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=agrov5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Featured Projects
@@ -69,16 +67,16 @@ const developer = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/aryan-grover-8083192aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+<!--   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  </a> -->
+  <a href="mailto:aryangrover20091007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -86,7 +84,7 @@ const developer = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrov5&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 💡 Random Dev Quote
@@ -98,7 +96,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=agrov5&color=0e75b6&style=flat" alt="Profile Views" />
   
   ### Thanks for visiting! 🚀
   
