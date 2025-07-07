@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aryan Grover 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
@@ -53,15 +53,15 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=agrov5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🎯 Featured Projects
+## 🎯 Featured Project
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/agrov5/Type-Like-A-Human">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agrov5&repo=Type-Like-A-Human&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/yourusername/project2">
+<!--   <a href="https://github.com/yourusername/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
+  </a> -->
 </div>
 
 ## 🌐 Connect With Me
