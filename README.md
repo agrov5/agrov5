@@ -47,6 +47,9 @@ const developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrov5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+## Hackatime Stats
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
