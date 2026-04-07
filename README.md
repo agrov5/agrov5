@@ -47,11 +47,11 @@ const developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrov5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+<!--
 ## Hackatime Stats
-
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23087&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 "/>
-
+-->
 ## 🏆 GitHub Trophies
 
 <div align="center">
